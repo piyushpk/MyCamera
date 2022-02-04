@@ -66,6 +66,7 @@ public class CameraActivity extends AppCompatActivity {
     private String cameraId = "0";
     private File file;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
